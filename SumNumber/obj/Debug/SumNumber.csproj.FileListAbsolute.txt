@@ -1,0 +1,7 @@
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\bin\Debug\SumNumber.exe.config
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\bin\Debug\SumNumber.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\bin\Debug\SumNumber.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\obj\Debug\SumNumber.csproj.AssemblyReference.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\obj\Debug\SumNumber.csproj.CoreCompileInputs.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\obj\Debug\SumNumber.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\SumNumber\obj\Debug\SumNumber.pdb

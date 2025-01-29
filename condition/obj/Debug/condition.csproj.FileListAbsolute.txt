@@ -1,0 +1,7 @@
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\bin\Debug\condition.exe.config
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\bin\Debug\condition.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\bin\Debug\condition.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\obj\Debug\condition.csproj.AssemblyReference.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\obj\Debug\condition.csproj.CoreCompileInputs.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\obj\Debug\condition.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\condition\obj\Debug\condition.pdb

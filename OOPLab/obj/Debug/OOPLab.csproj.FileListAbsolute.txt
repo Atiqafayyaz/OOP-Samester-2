@@ -1,0 +1,7 @@
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\bin\Debug\OOPLab.exe.config
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\bin\Debug\OOPLab.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\bin\Debug\OOPLab.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\obj\Debug\OOPLab.csproj.AssemblyReference.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\obj\Debug\OOPLab.csproj.CoreCompileInputs.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\obj\Debug\OOPLab.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\OOPLab\obj\Debug\OOPLab.pdb

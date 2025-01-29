@@ -1,0 +1,7 @@
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\bin\Debug\Area.exe.config
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\bin\Debug\Area.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\bin\Debug\Area.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\obj\Debug\Area.exe
+C:\Users\mjuna\OneDrive\Desktop\OOPLab\Area\obj\Debug\Area.pdb
