@@ -16,7 +16,6 @@ namespace Task6
         public string Role;
 
         private static List<MUser> users = new List<MUser>();
-
         public MUser(string name , string password , string role)
         {
             Name = name;
@@ -24,12 +23,12 @@ namespace Task6
             Role = role;
         }
 
-        public static string SignUp( string path , MUser mUser)
+        public  string SignUp( string path)
         {
             
             foreach (MUser user1 in users)
             { 
-                if(user1.Name == mUser.Name)
+                if(user1.Name == Name)
                 {
                     return "UserName Already Exist.";
                         
@@ -38,25 +37,25 @@ namespace Task6
             }
             
             StreamWriter file1 = new StreamWriter(path, true);
-            file1.WriteLine(mUser.Name + "," + mUser.Password + "," + mUser.Role);
+            file1.WriteLine(Name + "," + Password + "," + Role);
             file1.Flush();
             file1.Close();
 
             return "Sign Up Successfully";
         }
 
-        public static string Signin(MUser Muser)
+        public  string Signin()
         {
             foreach(MUser user1 in users) 
             {
-                if (Muser.Name == user1.Name && Muser.Password == user1.Password)
+                if (Name == user1.Name && Password == user1.Password)
                 {
                     return user1.Role;
                 }
             }
             return "Undefined";
         }
-        public static void readData(string path)
+        public static void ReadData(string path)
         {
 
             users.Clear();                     //Clears the list before adding new data to prevent duplicates
@@ -64,20 +63,20 @@ namespace Task6
             string record;
             while ((record = file.ReadLine()) != null)
             {
-               string[] feild = record.Split(',');  // Splits the line into an array using , (comma) as a separator. means split the string in substring and save in array
-                                                        // Before Split() → "Alice,password123,Admin"
-                                                       //After Split() → ["Alice", "password123", "Admin"]
-                                                       
-               if (feild.Length < 3)
-                     continue;
-               MUser user1 = new MUser(feild[0] , feild[1] , feild[2]);
-               users.Add(user1);
-            }                                // in list many object store where each object have 3 attributes in this case
-                                            // so whenever i compare attribute in list i have to add this object name with that attribute 
-                file.Close();
+                string[] feild = record.Split(',');  // Splits the line into an array using , (comma) as a separator. means split the string in substring and save in array
+                                                     // Before Split() → "Alice,password123,Admin"
+                                                     //After Split() → ["Alice", "password123", "Admin"]
 
-            
+                if (feild.Length < 3)
+                    continue;
+                MUser user1 = new MUser(feild[0], feild[1], feild[2]);
+                users.Add(user1);
+            }                                // in list many object store where each object have 3 attributes in this case
+                                             // so whenever i compare attribute in list i have to add this object name with that attribute 
+            file.Close();
+
+
         }
-       
+
     }
 }

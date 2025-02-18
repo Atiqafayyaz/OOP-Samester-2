@@ -5,3 +5,10 @@ C:\Users\mjuna\OneDrive\Desktop\Task2\Task6\obj\Debug\Task6.csproj.AssemblyRefer
 C:\Users\mjuna\OneDrive\Desktop\Task2\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
 C:\Users\mjuna\OneDrive\Desktop\Task2\Task6\obj\Debug\Task6.exe
 C:\Users\mjuna\OneDrive\Desktop\Task2\Task6\obj\Debug\Task6.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\bin\Debug\Task6.exe.config
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\bin\Debug\Task6.exe
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\bin\Debug\Task6.pdb
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\obj\Debug\Task6.exe
+C:\Users\mjuna\OneDrive\Desktop\OOP-Samester-2\Week2\Task6\obj\Debug\Task6.pdb

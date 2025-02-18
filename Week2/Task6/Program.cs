@@ -1,23 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Task6
 {
+
     internal class Program
     {
+        
         static void Main(string[] args)
         {
+
             string name, password, role; 
-            string path = "C:\\Users\\mjuna\\OneDrive\\Desktop\\Task2\\Task6\\file.txt";
+            string path = "C:\\Users\\mjuna\\OneDrive\\Desktop\\OOP-Samester-2\\Week2\\Task6\\file.txt";
             while (true)
             {
 
                 Console.Clear();
-                MUser.readData(path);
+                MUser.ReadData(path);
                 string option = Menu();
                 if (option == "1")
                 {
@@ -26,14 +30,14 @@ namespace Task6
                     Console.WriteLine("                    SignUp Menu");
                     Console.WriteLine("Enter UserName:  ");
                     name = Console.ReadLine();
-                    while (!nameValidation(name))
+                    while (!NameValidation(name))
                     {
                         Console.WriteLine("Invalid User Name Please try again");
                         name = Console.ReadLine();
                     }
                     Console.WriteLine("Enter Password:  ");
                     password = Console.ReadLine();
-                    while (!passwordValidation(password))
+                    while (!PasswordValidation(password))
                     {
                         Console.WriteLine("Password Must Contain At Least 8 Character and Should not containing Space.");
                         password = Console.ReadLine();
@@ -42,8 +46,8 @@ namespace Task6
                     role = Console.ReadLine();
 
                     MUser mUser = new MUser(name, password, role);
-                    Console.WriteLine(MUser.SignUp(path , mUser)); // pass object because in sign up function i have to write name password 
-                                                                   // in file jis k liye mujhy phir sy variable function m pass kerny par rahy thy so for avoid this situation a pass object
+                    Console.WriteLine(mUser.SignUp(path)); 
+                                                                
                 }
 
 
@@ -54,21 +58,22 @@ namespace Task6
 
                     Console.WriteLine("Enter UserName: ");
                     name = Console.ReadLine();
-                    while (!nameValidation(name))
+                    while (!NameValidation(name))
                     {
                         Console.WriteLine("Invalid User Name Please try again");
                         name = Console.ReadLine();
                     }
                     Console.WriteLine("Enter Password:  ");
                     password = Console.ReadLine();
-                    while (!passwordValidation(password))
+                    while (!PasswordValidation(password))
                     {
                         Console.WriteLine("Password Must Contain At Least 8 Character and Should not containing Space.");
                         password = Console.ReadLine();
                     }
                     
                     MUser Muser = new MUser(name, password , "");
-                    string role1 = MUser.Signin( Muser);
+                    
+                    string role1 = Muser.Signin();
                     if (role1 == "Undefined")
                     {
                         Console.WriteLine("Invalid UserName or Password");
@@ -100,8 +105,10 @@ namespace Task6
 
 
         }
+       
 
-        static bool nameValidation(string input)
+
+        static bool NameValidation(string input)
         {
             for (int idx = 0; idx < input.Length; idx = idx + 1)
             {
@@ -114,7 +121,7 @@ namespace Task6
             }
             return true;
         }
-        static bool passwordValidation(string password)
+        static bool PasswordValidation(string password)
         {
             if (password.Length < 8)
             {
