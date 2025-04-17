@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{138F2AE9-F29D-4AB0-984B-5306E417DEFA}|Task2\\Task2.csproj|solutionrelative:task2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|c:\\users\\mjuna\\onedrive\\desktop\\oop-samester-2\\week4\\task3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|C:\\Users\\mjuna\\OneDrive\\Desktop\\OOP-Samester-2\\Week4\\task3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|solutionrelative:task3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|c:\\users\\mjuna\\onedrive\\desktop\\oop-samester-2\\week4\\task3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|C:\\Users\\mjuna\\OneDrive\\Desktop\\OOP-Samester-2\\Week4\\task3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|solutionrelative:task3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|c:\\users\\mjuna\\onedrive\\desktop\\oop-samester-2\\week4\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|C:\\Users\\mjuna\\OneDrive\\Desktop\\OOP-Samester-2\\Week4\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984DF956-65B8-4566-939F-FC0C424E4BA7}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Task3\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:36:37.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:36:37.028Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Task3\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:34:35.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:34:35.437Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Task3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:33:40.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:33:40.58Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Task2\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:37:23.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:37:23.415Z"
             },
             {
               "$type": "Document",
@@ -108,7 +104,7 @@
               "RelativeDocumentMoniker": "Task2\\Program.cs",
               "ToolTip": "C:\\Users\\mjuna\\OneDrive\\Desktop\\OOP-Samester-2\\Week4\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T10:37:08.599Z",
               "EditorCaption": ""
